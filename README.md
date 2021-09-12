@@ -18,7 +18,7 @@
   <a href = "mailto:tcorrea.nick@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-ten%C3%B3rio-corr%C3%AAa-7a9479220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-  ![Snake animation]()
+  ![Snake animation](https://github.com/NickTCorrea/NickTCorrea/blob/output/github-contribution-grid-snake.svg)
     
 </div>
 
