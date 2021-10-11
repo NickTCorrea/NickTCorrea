@@ -1,7 +1,7 @@
 ### PRAZER, ME CHAMO NICOLAS!👋😀😄 <hr>
 
 - 🔭 Atualmente estou trabalhando como aluno aprendiz - administrativo;
-- 🌱 Atualmente estou aprendendo sobre Git, GitHub e Lógica de Programação;
+- 🌱 Atualmente estou aprendendo sobre Git, GitHub, HTML, CSS e Desenvolvimento Mobile com Java;
 - 👯 Estou procurando colaborar com um projeto em que eu possa contribuir os meus conhecimentos e adquirir experiência, desenvolvendo minha trajetória na área de TI;
 - 📫 Você pode me contactar através do e-mail: tcorrea.nick@gmail.com;
 - ⚡ Curiosidades: Aficionado por Sherlock Holmes🔍 e 1984📹. Pudim é vida!🍮
