@@ -1,7 +1,7 @@
 ### PRAZER, ME CHAMO NICOLAS!👋😀😄 <hr>
 
 - 🔭 Atualmente estou trabalhando como aluno aprendiz - administrativo;
-- 🌱 Atualmente estou aprendendo sobre Lógica de Programação, Git, GitHub, HTML, CSS e Desenvolvimento Mobile com Java;
+- 🌱 Atualmente estou aprendendo sobre Git, GitHub, HTML e CSS;
 - 👯 Estou procurando colaborar com um projeto em que eu possa contribuir os meus conhecimentos e adquirir experiência, desenvolvendo minha trajetória na área de TI;
 - 📫 Você pode me contactar através do e-mail: tcorrea.nick@gmail.com;
 - ⚡ Curiosidades: Aficionado por Sherlock Holmes🔍 e 1984📹. Pudim é vida!🍮
@@ -15,7 +15,7 @@
   
   <div style="display: inline-block"><br>
     <img align="center" alt="Nicolas-HTML" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="Nicolas-Java" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="Nicolas-CSS" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   </div>
   
   <hr>
